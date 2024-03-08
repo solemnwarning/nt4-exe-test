@@ -1,0 +1,3 @@
+[submodule "EnlyzeWinCompatLib"]
+	path = EnlyzeWinCompatLib
+	url = https://github.com/solemnwarning/EnlyzeWinCompatLib.git
